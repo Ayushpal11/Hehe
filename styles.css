@@ -1,0 +1,113 @@
+body{
+    color: 77;
+    font-family: 'Merriweather',serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+h1{
+    color: #66BFBF;
+    font-size: 90px;
+    margin-top: 0px;
+    font-family: 'Sacramento',cursive;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #11999e;
+    font-family: 'montserrat', sans-serif;
+}
+.top-container{
+    background-color: rgb(187, 235, 245);
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+.my-image{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    align-items: center;
+}
+.pro{
+    text-decoration: underline; 
+
+}
+.skill{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left : 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 500px;
+
+}
+.code-skill-description{
+    clear: left;
+}
+.hello{
+    clear: both;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+.computer-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    align-items: center;
+}
+.chillies-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: right;
+    align-items: center;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'montserrat', sans-serif
+    color: #30ec3b;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: rgb(187, 235, 245);
+    position: relative;
+    padding-top: auto;
+  }
+  .footer-link{
+    color: #000000;
+    font-size: 10px;
+    font-weight: normal;
+    padding: auto;
+  }
